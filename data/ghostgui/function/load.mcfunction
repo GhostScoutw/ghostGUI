@@ -14,6 +14,10 @@ tellraw @a { "color": "#00FF00", "text": "The Code is Load"}
 
 scoreboard objectives add ghostgui.window.max_x dummy
 scoreboard objectives add ghostgui.window.max_y dummy
+
+scoreboard objectives add ghostgui.window.offset_x dummy
+scoreboard objectives add ghostgui.window.offset_y dummy
+
 scoreboard objectives add ghostgui.editor.id dummy
 scoreboard objectives add ghostgui.math dummy
 

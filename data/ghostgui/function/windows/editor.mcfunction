@@ -58,9 +58,9 @@ execute as @n[tag=innit,tag=editor,tag=root] at @s run summon text_display ~ ~1 
 
 #text
 execute as @n[tag=innit,tag=editor,tag=root] at @s run summon text_display ~ ~1 ~ \
-    {Tags:["innit","editor","placeholder","window","text","fixoffset"],text:'{"text":"here be words","color":"aqua","color":"red"}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],\
+    {Tags:["innit","editor","placeholder","window","text","fixoffset"],text:'{"text":"Placeholder text","color":"aqua","color":"red"}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],\
     scale:[0.4f,0.4f,0.4f],translation:[0.0f,0.0f,0.01f]},background:0}
-
+#       text offset (todo: make it add instead of overwrite)
 execute as @n[tag=innit,tag=editor,tag=text] run data modify entity @s transformation.translation[1] set value 0.4f
 
 
