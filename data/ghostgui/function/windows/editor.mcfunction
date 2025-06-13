@@ -7,30 +7,30 @@ transformation:{scale:[0.25f,0.25f,0.25f],translation:[0.0f,0.0f,0.0f],left_rota
 
 
 ##area text
-summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areaout"],text:'{"text":"= Window Editor =\\n---=-=---","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
+summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areaout"],text:'{"text":"|------------|\\n| Window Editor |\\n|------------|","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
 execute as @e[tag=innit,tag=editor,tag=areaout] at @s run rotate @s ~60 ~
-summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areaout"],text:'{"text":"= Window Editor =\\n---=-=---","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
+summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areaout"],text:'{"text":"|------------|\\n| Window Editor |\\n|------------|","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
 execute as @e[tag=innit,tag=editor,tag=areaout] at @s run rotate @s ~60 ~
-summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areaout"],text:'{"text":"= Window Editor =\\n---=-=---","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
+summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areaout"],text:'{"text":"|------------|\\n| Window Editor |\\n|------------|","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
 execute as @e[tag=innit,tag=editor,tag=areaout] at @s run rotate @s ~60 ~
-summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areaout"],text:'{"text":"= Window Editor =\\n---=-=---","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
+summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areaout"],text:'{"text":"|------------|\\n| Window Editor |\\n|------------|","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
 execute as @e[tag=innit,tag=editor,tag=areaout] at @s run rotate @s ~60 ~
-summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areaout"],text:'{"text":"= Window Editor =\\n---=-=---","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
+summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areaout"],text:'{"text":"|------------|\\n| Window Editor |\\n|------------|","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
 execute as @e[tag=innit,tag=editor,tag=areaout] at @s run rotate @s ~60 ~
-summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areaout"],text:'{"text":"= Window Editor =\\n---=-=---","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
+summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areaout"],text:'{"text":"|------------|\\n| Window Editor |\\n|------------|","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
 execute as @e[tag=innit,tag=editor,tag=areaout] at @s run rotate @s ~60 ~
 
-summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areain"],text:'{"text":"= Window Editor =\\n---=-=---","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
+summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areain"],text:'{"text":"|------------|\\n| Window Editor |\\n|------------|","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
 execute as @e[tag=innit,tag=editor,tag=areain] at @s run rotate @s ~60 ~
-summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areain"],text:'{"text":"= Window Editor =\\n---=-=---","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
+summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areain"],text:'{"text":"|------------|\\n| Window Editor |\\n|------------|","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
 execute as @e[tag=innit,tag=editor,tag=areain] at @s run rotate @s ~60 ~
-summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areain"],text:'{"text":"= Window Editor =\\n---=-=---","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
+summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areain"],text:'{"text":"|------------|\\n| Window Editor |\\n|------------|","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
 execute as @e[tag=innit,tag=editor,tag=areain] at @s run rotate @s ~60 ~
-summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areain"],text:'{"text":"= Window Editor =\\n---=-=---","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
+summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areain"],text:'{"text":"|------------|\\n| Window Editor |\\n|------------|","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
 execute as @e[tag=innit,tag=editor,tag=areain] at @s run rotate @s ~60 ~
-summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areain"],text:'{"text":"= Window Editor =\\n---=-=---","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
+summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areain"],text:'{"text":"|------------|\\n| Window Editor |\\n|------------|","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
 execute as @e[tag=innit,tag=editor,tag=areain] at @s run rotate @s ~60 ~
-summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areain"],text:'{"text":"= Window Editor =\\n---=-=---","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
+summon text_display ~ ~ ~ {teleport_duration:1,Tags:["innit","editor","area","areain"],text:'{"text":"|------------|\\n| Window Editor |\\n|------------|","color":"red","bold":true}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[2.0f,2.0f,2.0f],translation:[0.0f,0.0f,0.0f]},background:0}
 execute as @e[tag=innit,tag=editor,tag=areain] at @s run rotate @s ~60 ~
 
 ##displacing area text
@@ -46,12 +46,30 @@ execute as @n[tag=innit,tag=editor,tag=root] at @s run tp @n[tag=innit,tag=edito
 
 
 ##placeholder window spawner
+#background
+execute as @n[tag=innit,tag=editor,tag=root] at @s run summon text_display ~ ~1 ~ \
+    {Tags:["innit","editor","placeholder","window","background","fixoffset"],text:'{"text":"■","color":"black"}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],\
+    scale:[8.0f,8.0f,8.0f],translation:[0.0f,0.0f,0.0f]},background:0}
 
-execute as @n[tag=innit,tag=editor,tag=root] at @s run summon text_display ~ ~1 ~ {Tags:["innit","editor","placeholder","window","background","fixoffset"],text:'{"text":"■","color":"black"}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[8.0f,8.0f,8.0f],translation:[0.0f,0.0f,0.0f]},background:0}
-execute as @n[tag=innit,tag=editor,tag=root] at @s run summon text_display ~ ~1 ~ {Tags:["innit","editor","placeholder","window","border","fixoffset"],text:'{"text":"□","color":"aqua"}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[9.0f,9.0f,9.0f],translation:[0.0f,0.0f,-0.01f]},background:0}
-execute as @n[tag=innit,tag=editor,tag=root] at @s run summon text_display ~ ~1 ~ {Tags:["innit","editor","placeholder","window","text","fixoffset"],text:'{"text":"here be words","color":"aqua"}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],scale:[9.0f,9.0f,9.0f],translation:[0.0f,0.0f,-0.01f]},background:0}
+#border
+execute as @n[tag=innit,tag=editor,tag=root] at @s run summon text_display ~ ~1 ~ \
+    {Tags:["innit","editor","placeholder","window","border","fixoffset"],text:'{"text":"□","color":"aqua"}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],\
+    scale:[9.0f,9.0f,9.0f],translation:[0.0f,0.0f,-0.01f]},background:0}
+
+#text
+execute as @n[tag=innit,tag=editor,tag=root] at @s run summon text_display ~ ~1 ~ \
+    {Tags:["innit","editor","placeholder","window","text","fixoffset"],text:'{"text":"here be words","color":"aqua","color":"red"}',alignment:"center",transformation:{left_rotation:[0.0f,0.0f,0.0f,1.0f],right_rotation:[0.0f,0.0f,0.0f,1.0f],\
+    scale:[0.4f,0.4f,0.4f],translation:[0.0f,0.0f,0.01f]},background:0}
+
+execute as @n[tag=innit,tag=editor,tag=text] run data modify entity @s transformation.translation[1] set value 0.4f
+
+
 ride @n[tag=border,tag=innit] mount @n[tag=background,tag=innit]
+
+
+
 ##setting editor id
+
 scoreboard players operation @e[tag=innit,tag=editor] ghostgui.editor.id = last ghostgui.editor.id
 scoreboard players add last ghostgui.editor.id 1
 
