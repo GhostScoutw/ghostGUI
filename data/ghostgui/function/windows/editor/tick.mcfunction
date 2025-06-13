@@ -10,9 +10,9 @@ execute as @e[tag=this.area,tag=areain] positioned as @n[tag=this.root] rotated 
 execute as @e[tag=this.area,tag=areaout] positioned as @n[tag=this.root] rotated as @s run tp @s ^ ^ ^4 ~1 0
 
 
-execute as @e[tag=this.background] at @s run function code:windows/editor/fixoffset
+execute as @e[tag=this.background] at @s run function ghostgui:windows/editor/fixoffset
 
-execute as @e[tag=this.border] at @s run function code:windows/editor/bordersize
+execute as @e[tag=this.border] at @s run function ghostgui:windows/editor/bordersize
 
 
 tag @e[tag=editor,tag=this.background] remove this.background

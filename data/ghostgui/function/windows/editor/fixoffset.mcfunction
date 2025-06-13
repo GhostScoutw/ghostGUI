@@ -14,4 +14,4 @@ execute store result storage ghostgui:math yoffset float 0.00001 run scoreboard 
 execute if entity @s[tag=border] store result storage ghostgui:math yoffset float 0.00001 run scoreboard players operation y ghostgui.math += bordery ghostgui.math
 #x = 0.0125
 #y = 0.075
-function code:windows/editor/fixoffset_apply with storage ghostgui:math
+function ghostgui:windows/editor/fixoffset_apply with storage ghostgui:math

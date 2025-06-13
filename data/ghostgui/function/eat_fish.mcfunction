@@ -5,4 +5,4 @@ effect give @s levitation 5 0
 tellraw @s "The power of the tropical fish courses within you..."
 
 # Revoke the advancement so they can activate it more than once.
-advancement revoke @s only code:eat_fish
+advancement revoke @s only ghostgui:eat_fish
